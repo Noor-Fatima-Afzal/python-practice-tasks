@@ -1,4 +1,4 @@
-for i in range(0,5):
-    print(5 * "*", end="")
-    print()
+num=int(input("enter a number"))
+for i in range(1,num+1):
+    print(num * "*")
 
