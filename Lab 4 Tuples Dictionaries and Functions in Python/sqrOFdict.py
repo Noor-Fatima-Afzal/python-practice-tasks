@@ -4,6 +4,6 @@ dict={
     '2':2,
     '3':3,
 }
-for key in dict:
-        dict[key]=dict[key] **2
+for i in dict:
+        dict[i]=dict[i] **2
 print(dict)    
