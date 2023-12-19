@@ -7,8 +7,6 @@ def  max(x, y):
 def cube(z):
     return z**3
 
-x=5
-y=2
-
-#function within function
+x=int(input("enter 1st num"))
+y=int(input("enter 2nd num"))
 print(cube(max(x, y)))    
