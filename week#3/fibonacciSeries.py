@@ -1,6 +1,6 @@
 a=0
 b=1
-num=int(input("pto what number you want to print the fabonacci sequence"))
+num=int(input("upto what number you want to print the fabonacci sequence"))
 if num==a:
     print(a)
 else:
